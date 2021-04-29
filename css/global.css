@@ -47,7 +47,7 @@
 
 
     /* -=-=-=-=- Image -=-=-=-=- */
-    --IMG1: url('../images/background/1.jpg');
+    --IMG1: url('https://bobiclaki.xyz/images/background/1.jpg');
 
 
     /* -=-=-=-=- Gradients -=-=-=-=- */
@@ -57,28 +57,28 @@
 
     /* -=-=-=-=- Backgrounds -=-=-=-=- */
     /* # Nature */
-    --nature-1: url("../images/nature/1.gif");
-    --nature-2: url("../images/nature/2.gif");
-    --nature-3: url("../images/nature/3.gif");
+    --nature-1: url("https://bobiclaki.xyz/images/nature/1.gif");
+    --nature-2: url("https://bobiclaki.xyz/images/nature/2.gif");
+    --nature-3: url("https://bobiclaki.xyz/images/nature/3.gif");
 
     /* # Star Wars */
-    --sw-1: url("../images/sw/1.gif");
+    --sw-1: url("https://bobiclaki.xyz/images/sw/1.gif");
 
     /* # Neon */
-    --neon-1: url("../images/neon/1.gif");
-    --neon-2: url("../images/neon/2.gif");
-    --neon-3: url("../images/neon/3.gif");
-    --neon-4: url("../images/neon/4.gif");
-    --neon-5: url("../images/neon/5.gif");
+    --neon-1: url("https://bobiclaki.xyz/images/neon/1.gif");
+    --neon-2: url("https://bobiclaki.xyz/images/neon/2.gif");
+    --neon-3: url("https://bobiclaki.xyz/images/neon/3.gif");
+    --neon-4: url("https://bobiclaki.xyz/images/neon/4.gif");
+    --neon-5: url("https://bobiclaki.xyz/images/neon/5.gif");
 
     /* # Other */
-    --other-1: url("../images/other/1.gif");
-    --other-2: url("../images/other/2.gif");
-    --other-3: url("../images/other/3.gif");
-    --other-4: url("../images/other/4.gif");
-    --other-5: url("../images/other/5.gif");
-    --other-6: url("../images/other/6.gif");
-    --other-7: url("../images/other/7.gif");
-    --other-8: url("../images/other/8.jpg");
+    --other-1: url("https://bobiclaki.xyz/images/other/1.gif");
+    --other-2: url("https://bobiclaki.xyz/images/other/2.gif");
+    --other-3: url("https://bobiclaki.xyz/images/other/3.gif");
+    --other-4: url("https://bobiclaki.xyz/images/other/4.gif");
+    --other-5: url("https://bobiclaki.xyz/images/other/5.gif");
+    --other-6: url("https://bobiclaki.xyz/images/other/6.gif");
+    --other-7: url("https://bobiclaki.xyz/images/other/7.gif");
+    --other-8: url("https://bobiclaki.xyz/images/other/8.jpg");
 
 }
