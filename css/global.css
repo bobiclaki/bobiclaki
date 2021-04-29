@@ -57,28 +57,28 @@
 
     /* -=-=-=-=- Backgrounds -=-=-=-=- */
     /* # Nature */
-    --nature-1: url("https://i.gifer.com/4Cb2.gif");
-    --nature-2: url("https://i.gifer.com/7TwT.gif");
-    --nature-3: url("http://prtlsmusic.com/wp-content/uploads/2016/06/JuneAnimate.gif");
+    --nature-1: url("../images/nature/1.gif");
+    --nature-2: url("../images/nature/2.gif");
+    --nature-3: url("../images/nature/3.gif");
 
     /* # Star Wars */
-    --sw-1: url("https://i.gifer.com/DVx4.gif");
+    --sw-1: url("../images/sw/1.gif");
 
     /* # Neon */
-    --neon-1: url("https://steamuserimages-a.akamaihd.net/ugc/1001430317039011759/88B06D5E87FC5F134AC8BF982229DB08EE4499A7/");
-    --neon-2: url("https://i.gifer.com/2A5.gif");
-    --neon-3: url("https://i.gifer.com/fyrS.gif");
-    --neon-4: url("https://i.gifer.com/xK.gif");
-    --neon-5: url("https://i.gifer.com/33HI.gif");
+    --neon-1: url("../images/neon/1.gif");
+    --neon-2: url("../images/neon/2.gif");
+    --neon-3: url("../images/neon/3.gif");
+    --neon-4: url("../images/neon/4.gif");
+    --neon-5: url("../images/neon/5.gif");
 
     /* # Other */
-    --other-1: url("https://i.gifer.com/YQgT.gif");
-    --other-2: url("https://i.gifer.com/Cend.gif"); /* Мужик */
-    --other-3: url("https://i.gifer.com/NQ0b.gif"); /* Хромасома */
-    --other-4: url("https://i.gifer.com/9uM6.gif"); /* Спрут */
-    --other-5: url("https://tcrf.net/images/9/91/Brawlhalla-Odd8.gif"); /* Взрывное яйцо */
-    --other-6: url("https://thumbs.gfycat.com/AdventurousNauticalDoctorfish-size_restricted.gif"); /* Круг */
-    --other-7: url("https://c.wallhere.com/photos/fe/47/wings_angel_clouds-1153314.jpg!d"); /* Ангел */
-    --other-8: url("https://i.gifer.com/cJA.gif"); /* Glitch Apple */
+    --other-1: url("../images/other/1.gif");
+    --other-2: url("../images/other/2.gif");
+    --other-3: url("../images/other/3.gif");
+    --other-4: url("../images/other/4.gif");
+    --other-5: url("../images/other/5.gif");
+    --other-6: url("../images/other/6.gif");
+    --other-7: url("../images/other/7.gif");
+    --other-8: url("../images/other/8.jpg");
 
 }
