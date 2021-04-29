@@ -1,0 +1,84 @@
+:root {
+
+    /* -=-=-=-=- Main Colors -=-=-=-=- */
+    --C1: #7579ff;
+    --C2: #00d38f;
+    --C3: #ffde5a;
+    --C4: #ff4e33;
+    --C5: #f64072; /* fa556b | f64072 */
+    
+    /* -=-=-=-=- Text Color -=-=-=-=- */
+    --T1: #969696;
+    --T2: #dadada;
+
+
+    /* -=-=-=-=- Theme -=-=-=-=- */
+    --light-bg: #f5f5f5;
+    --light-font: #06070d;
+    --dark-bg: #06070d;
+    --dark-font: #e8e8e8;
+
+    /* Dark Theme */
+    --D1: #06070d;
+    --D2: #151518;
+    --D3: #161a1f;
+    /* Text */
+    --DT1: #e8e8e8;
+    /* Dimming */
+    --DD1: #00000015;
+    --DD2: #00000025;
+    --DD3: #00000045;
+    --DD4: #00000075;
+    --DD5: #00000077;
+    --DD6: #00000090;
+
+    /* Light Theme */
+    --L1: #ffffff;
+    /* Dimming */
+    --LD1: #ffffff15;
+    --LD2: #ffffff20;
+    --LD3: #ffffff25;
+    --LD4: #ffffff45;
+    --LD5: #ffffff75;
+
+
+    /* -=-=-=-=- OTHER -=-=-=-=- */
+    --T: transparent;
+
+
+    /* -=-=-=-=- Image -=-=-=-=- */
+    --IMG1: url('https://cdn.pixabay.com/photo/2017/08/30/12/23/black-2696879_960_720.jpg');
+
+
+    /* -=-=-=-=- Gradients -=-=-=-=- */
+    --G1: linear-gradient(180deg, #281c40, #22394c);
+    --G2: linear-gradient(180deg,#2d2c3300 0,#281c40 70%,#22394c);
+
+
+    /* -=-=-=-=- Backgrounds -=-=-=-=- */
+    /* # Nature */
+    --nature-1: url("https://i.gifer.com/4Cb2.gif");
+    --nature-2: url("https://i.gifer.com/7TwT.gif");
+    --nature-3: url("http://prtlsmusic.com/wp-content/uploads/2016/06/JuneAnimate.gif");
+
+    /* # Star Wars */
+    --sw-1: url("https://i.gifer.com/DVx4.gif");
+
+    /* # Neon */
+    --neon-1: url("https://steamuserimages-a.akamaihd.net/ugc/1001430317039011759/88B06D5E87FC5F134AC8BF982229DB08EE4499A7/");
+    --neon-2: url("https://i.gifer.com/2A5.gif");
+    --neon-3: url("https://i.gifer.com/fyrS.gif");
+    --neon-4: url("https://i.gifer.com/xK.gif");
+    --neon-5: url("https://i.gifer.com/33HI.gif");
+
+    /* # Other */
+    --other-1: url("https://i.gifer.com/YQgT.gif");
+    --other-2: url("https://i.gifer.com/Cend.gif"); /* Мужик */
+    --other-3: url("https://i.gifer.com/NQ0b.gif"); /* Хромасома */
+    --other-4: url("https://i.gifer.com/9uM6.gif"); /* Спрут */
+    --other-5: url("https://tcrf.net/images/9/91/Brawlhalla-Odd8.gif"); /* Взрывное яйцо */
+    --other-6: url("https://thumbs.gfycat.com/AdventurousNauticalDoctorfish-size_restricted.gif"); /* Круг */
+    --other-7: url("https://c.wallhere.com/photos/fe/47/wings_angel_clouds-1153314.jpg!d"); /* Ангел */
+    --other-8: url("https://i.gifer.com/cJA.gif"); /* Glitch Apple */
+
+}
