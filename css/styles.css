@@ -1,0 +1,25 @@
+body {
+    color: var(--T1);
+    background: var(--D1);
+    font-family: 'Roboto Mono', monospace;
+}
+
+.logo {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    font-family: 'Roboto Mono', monospace;
+}
+.text {
+    z-index: 2;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 100;
+    font-size: 3.5wh;
+    color: var(--T2);
+}
+.dud {
+    color: var(--T1);
+}
